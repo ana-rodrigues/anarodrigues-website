@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'newsreader_textlight_italic';
+    font-family: 'Newsreader Display';
     src: url('./styles/newsreadertext-lightitalic-webfont.woff2') format('woff2'),
          url('./styles/newsreadertext-lightitalic-webfont.woff') format('woff');
     font-weight: normal;
