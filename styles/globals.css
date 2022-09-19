@@ -1,15 +1,3 @@
-@font-face {
-    font-family: 'Newsreader Display';
-    src: url('NewsreaderDisplay-LightItalic.eot');
-    src: url('NewsreaderDisplay-LightItalic.eot?#iefix') format('embedded-opentype'),
-        url('NewsreaderDisplay-LightItalic.woff2') format('woff2'),
-        url('NewsreaderDisplay-LightItalic.woff') format('woff'),
-        url('NewsreaderDisplay-LightItalic.ttf') format('truetype');
-    font-weight: 300;
-    font-style: italic;
-    font-display: swap;
-}
-
 html,
 body {
   padding: 0;
@@ -25,11 +13,6 @@ a {
 * {
   box-sizing: border-box;
 }
-
-h1, h2, h3, h4, h5 {
-  font-family: 'Newsreader Display', Times New Roman, serif;
-}
-
 
 @media (prefers-color-scheme: dark) {
   html {
