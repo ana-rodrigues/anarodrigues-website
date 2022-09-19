@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Newsreader Display';
-    src: url('/newsreadertext-lightitalic-webfont.woff2') format('woff2'),
-         url('/newsreadertext-lightitalic-webfont.woff') format('woff');
+    src: url('./newsreadertext-lightitalic-webfont.woff2') format('woff2'),
+         url('./newsreadertext-lightitalic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
