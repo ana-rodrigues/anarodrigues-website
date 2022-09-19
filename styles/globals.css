@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Newsreader Display';
-    src: url('/styles/NewsreaderDisplay-LightItalic.eot');
-    src: url('/styles/NewsreaderDisplay-LightItalic.eot?#iefix') format('embedded-opentype'),
-        url('/styles/NewsreaderDisplay-LightItalic.woff2') format('woff2'),
-        url('/styles/NewsreaderDisplay-LightItalic.woff') format('woff'),
-        url('/styles/NewsreaderDisplay-LightItalic.ttf') format('truetype');
+    src: url('/NewsreaderDisplay-LightItalic.eot');
+    src: url('/NewsreaderDisplay-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('/NewsreaderDisplay-LightItalic.woff2') format('woff2'),
+        url('/NewsreaderDisplay-LightItalic.woff') format('woff'),
+        url('/NewsreaderDisplay-LightItalic.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
